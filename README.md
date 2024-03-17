@@ -2,6 +2,8 @@
 
 Example of ChatBot UI implementation in Svelte
 
+![実行イメージ](./img/demo.gif)
+
 [Demo](https://p-t6f8b4s-svelte-chatbot-ui.pages.dev/) / [Blog](https://maku.blog/p/t6f8b4s/)
 
 ## Developing
